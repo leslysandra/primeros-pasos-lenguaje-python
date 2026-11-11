@@ -29,18 +29,18 @@ Mgr. Ing. Lesly Zerna
 | Notebook | Tema | Abrir |
 |---|---|---|
 | 00 | Colab, variables, listas, DataFrames, funciones y librerías | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leslysandra/primeros-pasos-python/blob/main/notebooks/00_bienvenido_a_python.ipynb) |
-| 01 | Manipulación de datos con `pandas` | (badge) |
-| 02 | Estadística descriptiva | (badge) |
-| 03 | Visualización con `seaborn` y `matplotlib` | (badge) |
-| 04 | Ingeniería de variables | (badge) |
+| 01 | Manipulación de datos con `pandas` |
+| 02 | Estadística descriptiva |
+| 03 | Visualización con `seaborn` y `matplotlib` |
+| 04 | Ingeniería de variables |
 
 ### Parte 2 — Modelos de Predicción Analítica
 | Notebook | Tema | Abrir |
 |---|---|---|
-| 10 | Regresión lineal simple y múltiple, diagnóstico de residuos | (badge) |
-| 11 | Evaluación de regresión: MAE, RMSE, R², validación cruzada | (badge) |
-| 12 | Regresión logística y clasificación | (badge) |
-| 13 | Evaluación de clasificación: matriz de confusión, precision, recall, ROC | (badge) |
+| 10 | Regresión lineal simple y múltiple, diagnóstico de residuos |
+| 11 | Evaluación de regresión: MAE, RMSE, R², validación cruzada |
+| 12 | Regresión logística y clasificación |
+| 13 | Evaluación de clasificación: matriz de confusión, precision, recall, ROC |
 
 ## Librerías utilizadas
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`,
